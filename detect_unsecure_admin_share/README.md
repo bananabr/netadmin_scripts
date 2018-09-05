@@ -1,4 +1,5 @@
 # detect_unsecure_admin_share.py
+```
 usage: detect_unsecure_admin_share.py [-h] (--ip IP | --file FILE | --net NET)
                                       [--timeout TIMEOUT] [--verbose]
                                       [--debug] [--threads THREADS]
@@ -19,4 +20,4 @@ optional arguments:
   --user USER          username and password are the user credentials required to authenticate the underlying SMB connection with the remote server.
   --password PASSWORD  username and password are the user credentials required to authenticate the underlying SMB connection with the remote server.
   --domain DOMAIN      The network domain. On windows, it is known as the workgroup. (optional)
-
+```
